@@ -52,14 +52,23 @@ Tengo experiencia desarrollando plataformas administrativas, financieras y de ge
 # 📱 Experiencia Destacada
 
 ✅ Desarrollo de aplicaciones móviles empresariales con React Native y Expo
+
 ✅ Construcción de APIs escalables con NestJS y TypeORM
+
 ✅ Implementación de arquitecturas reutilizables y modulares
+
 ✅ Desarrollo de sistemas de préstamos, amortización y cobranza
+
 ✅ Optimización de consultas complejas en SQL Server y PostgreSQL
+
 ✅ Manejo avanzado de estado con Redux Toolkit y Zustand
+
 ✅ Integración de autenticación JWT y biometría móvil
+
 ✅ Diseño de dashboards administrativos y componentes reutilizables
+
 ✅ Automatización de procesos empresariales y generación de reportes
+
 
 ---
 
