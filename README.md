@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hola, soy Rudy Casilla
 
-<!--
-**rpccode/rpccode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Ingeniero de software y desarrollador Full Stack apasionado por crear aplicaciones web y móviles escalables, modernas y eficientes.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+
+* React
+* React Native
+* TypeScript
+* TailwindCSS
+* Redux / Zustand
+
+### Backend
+
+* NestJS
+* Node.js
+* TypeORM
+* REST APIs
+
+### Bases de datos
+
+* PostgreSQL
+* SQL Server
+* Supabase
+* Realm
+
+### Otras herramientas
+
+* Git & GitHub
+* Expo
+* Docker
+* Figma
+
+---
+
+## 📱 Experiencia
+
+* Desarrollo de aplicaciones web empresariales
+* Desarrollo móvil con React Native y Expo
+* Sistemas financieros y gestión de préstamos
+* Integración de APIs y servicios externos
+* Arquitectura y optimización de bases de datos
+* Dashboards y sistemas administrativos
+
+---
+
+## 📫 Contacto
+
+* GitHub: [GitHub](https://github.com?utm_source=chatgpt.com)
+* LinkedIn: [LinkedIn](https://linkedin.com?utm_source=chatgpt.com)
+
+---
+
+⭐ Siempre aprendiendo nuevas tecnologías y construyendo soluciones que generen impacto.
