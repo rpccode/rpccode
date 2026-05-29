@@ -86,7 +86,7 @@ Tengo experiencia desarrollando plataformas administrativas, financieras y de ge
 # 📫 Contacto
 
 💼 GitHub: https://github.com/rpccode
-🔗 LinkedIn: https://linkedin.com/in/rudycasilla
+🔗 LinkedIn: www.linkedin.com/in/rudy-alexander-pérez-casilla-61a463292
 
 ---
 
