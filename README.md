@@ -1,56 +1,91 @@
 # 👋 Hola, soy Rudy Casilla
 
-💻 Ingeniero de software y desarrollador Full Stack apasionado por crear aplicaciones web y móviles escalables, modernas y eficientes.
+💻 Ingeniero de Software y Desarrollador Full Stack especializado en el desarrollo de aplicaciones web y móviles modernas, escalables y orientadas a soluciones empresariales.
+
+Cuento con experiencia construyendo sistemas administrativos, financieros y de gestión utilizando tecnologías como React, React Native, NestJS, TypeScript, SQL Server y PostgreSQL. Me enfoco en crear arquitecturas limpias, APIs robustas y experiencias de usuario eficientes.
+
+---
 
 ## 🚀 Tecnologías y herramientas
 
-### Frontend
+### 🖥 Frontend
 
 * React
 * React Native
 * TypeScript
+* JavaScript ES6+
 * TailwindCSS
-* Redux / Zustand
+* Redux Toolkit
+* Zustand
+* React Hook Form
+* React Router DOM
+* Tremor
+* Expo
 
-### Backend
+### ⚙️ Backend
 
 * NestJS
 * Node.js
 * TypeORM
 * REST APIs
+* Supabase
+* JWT Authentication
 
-### Bases de datos
+### 🗄 Bases de datos
 
 * PostgreSQL
 * SQL Server
-* Supabase
-* Realm
+* Realm Database
+* MySQL
 
-### Otras herramientas
+### 📊 Desarrollo empresarial
+
+* Sistemas financieros y préstamos
+* Facturación electrónica
+* Dashboards administrativos
+* Gestión de tickets y soporte
+* Automatización de procesos SQL
+* Integración de APIs y servicios externos
+
+### 🛠 Herramientas
 
 * Git & GitHub
-* Expo
 * Docker
+* Postman
 * Figma
+* VS Code
 
 ---
 
-## 📱 Experiencia
+## 📱 Experiencia destacada
 
-* Desarrollo de aplicaciones web empresariales
-* Desarrollo móvil con React Native y Expo
-* Sistemas financieros y gestión de préstamos
-* Integración de APIs y servicios externos
-* Arquitectura y optimización de bases de datos
-* Dashboards y sistemas administrativos
+* Desarrollo de aplicaciones móviles con React Native y Expo
+* Construcción de APIs empresariales con NestJS y TypeORM
+* Implementación de CRUD dinámicos y arquitecturas reutilizables
+* Desarrollo de sistemas de préstamos y amortización
+* Optimización de consultas y scripts masivos en SQL Server
+* Manejo de estado avanzado con Redux Toolkit y Zustand
+* Diseño de dashboards y componentes reutilizables
+* Integración de autenticación biométrica en aplicaciones móviles
+* Desarrollo de módulos administrativos y financieros
+
+---
+
+## 📌 Actualmente trabajando en
+
+* Arquitecturas escalables con NestJS
+* Aplicaciones móviles empresariales
+* Sistemas financieros y de cobranza
+* Automatización y optimización SQL
+* UI modernas con React y TailwindCSS
 
 ---
 
 ## 📫 Contacto
 
-* GitHub: [GitHub](https://github.com?utm_source=chatgpt.com)
-* LinkedIn: [LinkedIn](https://linkedin.com?utm_source=chatgpt.com)
+* 💼 GitHub: [GitHub](https://github.com?utm_source=chatgpt.com)
+* 🔗 LinkedIn: [LinkedIn](https://linkedin.com?utm_source=chatgpt.com)
 
 ---
 
-⭐ Siempre aprendiendo nuevas tecnologías y construyendo soluciones que generen impacto.
+⭐ Apasionado por la tecnología, el aprendizaje continuo y la construcción de soluciones que generen impacto real.
